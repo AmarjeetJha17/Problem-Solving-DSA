@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0283-move-zeroes) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
