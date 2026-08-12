@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0844-backspace-string-compare) |
 ## Quicksort
