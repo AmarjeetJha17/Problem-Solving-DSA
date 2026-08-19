@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
