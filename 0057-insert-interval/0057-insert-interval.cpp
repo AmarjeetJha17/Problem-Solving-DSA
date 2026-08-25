@@ -5,38 +5,35 @@ public:
             intervals.push_back(newInterval);
             return intervals;
         }
-        //insert
-        int n = intervals.size();
         vector<vector<int>> result;
-        bool inserted = false;
-        for(int i=0;i<n;i++) {
+        int newStart = newInterval[0];
+        int newEnd = newInterval[1];
+        for(int i=0;i<intervals.size();i++) {
             int start = intervals[i][0];
-            if (!inserted && start >= newInterval[0]) {
-                result.push_back(newInterval);
-                inserted = true;
+            int end = intervals[i][1];
+
+            //no overlap - before insert
+            if (end < newStart) {
+                result.push_back({start, end});
             }
-            result.push_back(intervals[i]);
-        }
-        if(!inserted) {
-            result.push_back(newInterval);
-        }
-        
-        //merge
-        vector<vector<int>> final;
-        int start1 = result[0][0];
-        int end1 = result[0][1];
-        for(int i=1;i<result.size();i++) {
-            int start2 = result[i][0];
-            int end2 = result[i][1];
-            if (end1 >= start2) {
-                end1 = max(end2, end1);
-                continue;
+            // overlap - merge
+            else if (start <= newEnd) {
+                newStart = min(start, newStart);
+                newEnd = max(end, newEnd);
             }
-            final.push_back({start1, end1});
-            start1 = start2;
-            end1 = end2;
+            //no overlap - after insert
+            else {
+                result.push_back({newStart, newEnd});
+                result.push_back({start, end});
+                //push remaining elements
+                for (int j=i+1;j<intervals.size();j++) {
+                    result.push_back(intervals[j]);
+                }
+                return result;
+            }
         }
-        final.push_back({start1, end1});
-        return final;
+        //if insert is last element
+        result.push_back({newStart, newEnd});
+        return result;
     }
 };
