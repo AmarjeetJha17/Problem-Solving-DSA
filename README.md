@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
