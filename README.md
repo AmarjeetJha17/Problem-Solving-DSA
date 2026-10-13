@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/AmarjeetJha17/Problem-Solving-DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
